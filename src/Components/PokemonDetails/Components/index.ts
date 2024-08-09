@@ -1,5 +1,6 @@
-import {HeaderCard} from "./HeaderCard";
-import {PokeTypes} from "./PokeTypes";
-import {Title} from "./Title";
-import {Stats} from "./Stats";
-import {BaseStats} from "./BaseStats";
+export {HeaderCard} from "./HeaderCard";
+export {PokeTypes} from "./PokeTypes";
+export {Title} from "./Title";
+export {Stats} from "./Stats";
+export {BaseStats} from "./BaseStats";
+
